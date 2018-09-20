@@ -1,0 +1,10 @@
+.idea/
+data/
+misc/
+venv/
+
+cron_me.sh
+run.sh
+
+*.db
+*.pyc
